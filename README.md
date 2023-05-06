@@ -2,5 +2,8 @@
 
 ## What is HOJO?
 
-HOJOは作物の生育の様子を記録しておくためのアプリです。
-画像・日時・位置情報を紐付けて管理できるため、大規模な圃場での生育プロファイルを取りたいユーザーや、様々な地域での圃場間差異を調査したいフィールドワーカーの仕事をサポートできます。
+HOJO is an app designed to keep track of the growth status of crops. Users can manage the associated images, dates, and location information, making it possible to obtain growth profiles in large-scale fields or to support the work of field workers who wish to investigate differences between fields in various regions.
+
+## Privacy Policy
+
+- <https://github.com/r1wtn/HOJO-docs/blob/main/docs/PRIVACY_POLICY.md>
