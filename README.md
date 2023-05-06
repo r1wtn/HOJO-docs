@@ -7,3 +7,7 @@ HOJO is an app designed to keep track of the growth status of crops. Users can m
 ## Privacy Policy
 
 - <https://github.com/r1wtn/HOJO-docs/blob/main/docs/PRIVACY_POLICY.md>
+
+## Contact
+
+Please contact contact.r1.technologies@gmail.com for any questions, requests, or other inquiries regarding the app.
