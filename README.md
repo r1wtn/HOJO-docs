@@ -18,10 +18,10 @@ Please contact contact.r1.technologies@gmail.com for any questions, requests, or
 This project is made possible by the generous contributions of the following organizations and individuals. (in alphabetical order)
 
 
-![](./images/africa_rice.png)
-![](./images/egypt-agricultural-research-center.png)
-![](./images/gifu_univ.png)
-![](./images/JIRCAS_LOGO_A8_874x414.png)
+![](./images/africa_rice.jpg)
+![](./images/egypt-agricultural-research-center.jpg)
+![](./images/gifu_univ.jpg)
+![](./images/JIRCAS_LOGO_A8_874x414.jpg)
 ![](./images/Philippine_Rice_Research_Institute.jpg)
-![](./images/tat_univ.jpg)
-![](./images/tohoku_univ.png)
+![](./images/tat_univ.jpg)  
+![](./images/tohoku_univ.jpg)
