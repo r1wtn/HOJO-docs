@@ -15,7 +15,7 @@ Please contact contact.r1.technologies@gmail.com for any questions, requests, or
 
 ## Acknowledgments
 
-This project is made possible by the generous contributions of the following organizations and individuals. (in alphabetical order)
+This project is made possible by the generous contributions of various domestic and international research institutions and researchers, including the following individuals. (in alphabetical order)
 
 ### Organizations
 
